@@ -19,6 +19,10 @@ Implements and compares three cache eviction policies on the same request sequen
 - src/optff.py          # OPTFF (Belady's) eviction policy
 - data/example.in       # Example input file
 - data/example.out      # Expected output for example.in
+- data/file1.in         # Example file 1 for question 1
+- data/file2.in         # Example file 2 for question 1
+- data/file3.in         # Example file 3 for question 1
+- data/q2.in            # Example file for question 2
 - tests/test_cache.py   # Unit tests
 - README.md             # Descrition of Project
 ```
